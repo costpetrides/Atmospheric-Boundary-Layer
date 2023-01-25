@@ -9,7 +9,7 @@
    - Atmosphere stability based on wind velocity measures
  
 
-3. [Profiles of Standar Diviation](https://github.com/costpetrides/Atmospheric-Boundary-Layer/blob/main/Profiles-%20Standar-Diviation.ipynb)
+3. [Profiles of (Wind) Standar Diviation](https://github.com/costpetrides/Atmospheric-Boundary-Layer/blob/main/Profiles-%20Standar-Diviation.ipynb)
    - Stable  Conditions
    - Neutral Conditions
    - Unstable Conditions
