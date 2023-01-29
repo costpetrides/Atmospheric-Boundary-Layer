@@ -27,24 +27,3 @@
 You can start  a new code with Google Colaboratory (Python): 
    
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
-____
-# Breief Theory
-
-
-## Rules of stability in ABL:
-
-1.	Unstable:
-•	Light winds and surface warmer than air 
-•	Sunny days in fair- weather /or
-•	Cold air blows over a warmer surface (day or night)
-
-2.	Stable:
-•	Light winds and surface cooler than air 
-•	Nights in fair- weather and clear skies /or 
-•	Warm air blows over a warmer surface (day or night)
-Note: Turbulence is weak or sometimes nonexistent in stable layers adjacent to the ground. 
-3.	Neutral:
-•	Winds are moderate to strong
-•	Little heating or cooling from the surface
-•	Overcast conditions often associated with bad weather 
-•	Characteristic of residual layer 
